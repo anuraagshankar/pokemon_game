@@ -1,0 +1,13 @@
+Steel Psychic
+Psychic
+Psychic
+30 65
+Iron Head
+Steel
+35 60
+Zen Headbutt
+Psychic
+15 85
+Metal Claw
+Steel
+10 90

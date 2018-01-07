@@ -1,0 +1,13 @@
+Water Ground
+Mud Shot
+Ground
+35 65
+Water Gun
+Water
+20 80
+Mud Slap
+Ground
+20 85
+Tackle
+Normal
+10 100

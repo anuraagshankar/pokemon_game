@@ -1,0 +1,13 @@
+Grass None
+Leaf Blade
+Grass
+50 50
+Fury Cutter
+Bug
+15 95
+Pursuit
+Dark
+20 80
+Pound
+Normal
+10 100

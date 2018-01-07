@@ -1,0 +1,13 @@
+Dragon Ground
+Dragon Breath
+Dragon
+25 75
+Earthquake
+Ground
+35 65
+Rock Slide
+Rock
+25 80
+Bite
+Dark
+15 90

@@ -1,0 +1,13 @@
+Dragon None
+Headbutt
+Normal
+20 90
+Dragon Breath
+Dragon
+25 75
+Ember
+Fire
+15 95
+Tackle
+Normal
+10 100

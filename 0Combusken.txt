@@ -1,0 +1,13 @@
+Fire Fighting
+Ember
+Fire
+15 95
+Jump Kick
+Fighting
+30 70
+Flamethrower
+Fire
+40 60
+Scratch
+Normal
+10 100

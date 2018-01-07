@@ -1,0 +1,5 @@
+20 Bagon
+30 Grovyle
+40 Marshtomp
+50 Combusken
+100 Metang

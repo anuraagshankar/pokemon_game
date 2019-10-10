@@ -29,11 +29,11 @@ void line(){
 
 int main(){
 
-    cout << "Enter player name(Numbers not allowed):" << endl;
+    cout << "Enter player name:" << endl;
     cin >> name;
-    if(nameCheck(name) == 1){cout << "\nINVALID NAME!\n\nEXITING GAME..."; exit(0);}// checks whether name has digit
+    if(nameCheck(name) == 1){cout << "\nINVALID NAME!\n\nEXITING GAME"; exit(0);}// checks whether name has digit
     system("cls");
-    cout << "Welcome " << name << "!" << endl;
+    cout << "Welcome " << name<< endl;
     plyrPkmn();
     strcpy(fName, name);
     strcat(fName, ".txt");
